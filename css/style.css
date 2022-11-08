@@ -59,7 +59,7 @@ nav ul li {
    padding: 18px 0;
    border-radius: 20px;
    border: solid 2px rgb(78, 69, 168);
-    background-color: rgb(189, 184, 241);
+   background-color: rgb(189, 184, 241);
 }
 nav ul li:hover {
     color:  rgb(16, 10, 83);
@@ -157,13 +157,13 @@ table.striped tr:nth-child(odd) {
     background-color: greenyellow;
 }
 form.registro {
-    width: 60%;
-    background-color: azure;
+    width: 30%;
+    background-color: rgb(240, 240, 255);
     padding: 10px;
 }
 #form-html5 form {
     width: 50%;
-    background-color: azure;
+    background-color: rgb(240, 240, 255);
     margin: 0 auto;
     padding: 10px;
 }
