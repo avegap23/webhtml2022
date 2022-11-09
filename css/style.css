@@ -20,14 +20,20 @@ header {
     height: 205px;
 }
 footer {
-    background-color: rgb(191,20,107);
-    color: rgb(216, 213, 247);
-    text-align: center;
+    background-color: rgb(148, 143, 202);
     font-size: 26px;
     font-weight: bold;
     padding: 20px;
 }
-
+.footertxt {
+    background-color: rgb(191,20,107);
+    color: rgb(216, 213, 247);
+    text-align: center;
+    width: 30%;
+    border-radius: 50px;
+    padding: 10px;
+    margin: auto;
+}
 nav {
     width: 20%;
     float: left;
@@ -157,7 +163,7 @@ table.striped tr:nth-child(odd) {
     background-color: greenyellow;
 }
 form.registro {
-    width: 30%;
+    width: 42%;
     background-color: rgb(240, 240, 255);
     padding: 10px;
 }
